@@ -1,5 +1,7 @@
+import Logo from "./logos/logo.svg"
+
 const Images = {
-  logo: "../images/logos/logo.svg",
+  logo: Logo,
   menu: {
     productIcon: "../images/icons/courses.svg",
     supportIcon: "../images/icons/tutorials.svg",
